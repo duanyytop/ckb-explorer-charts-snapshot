@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/duanyytop/ckb-explorer-charts-snapshot.git"
   },
-  "author": "Dylan (duanyytop@gmail.com)",
+  "author": "Dylan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/duanyytop/ckb-explorer-charts-snapshot/issues"
