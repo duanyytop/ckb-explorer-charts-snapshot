@@ -7,6 +7,7 @@ exports.snapshot = async function(url, path) {
     await page.goto(url, {timeout: 120000});
   } catch (error) {
     console.error(`Open page error: ${error}`);
+    await page.goto(url, {timeout: 120000});
   }
   const dimensions = await page.evaluate(() => {
     return {

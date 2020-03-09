@@ -2,11 +2,11 @@ const snapshot = require("./snapshot");
 
 const url_paths = [
   {
-    url: "https://explorer.nervos.org/charts/difficulty_hash_rate",
+    url: "https://explorer.nervos.org/charts/difficulty-hash-rate",
     path: "path/difficulty_hash_rate.png"
   },
   {
-    url: "https://explorer.nervos.org/charts/difficulty_uncle_rate",
+    url: "https://explorer.nervos.org/charts/difficulty-uncle-rate",
     path: "path/difficulty_uncle_rate.png"
   },
   {
@@ -14,27 +14,27 @@ const url_paths = [
     path: "path/difficulty.png"
   },
   {
-    url: "https://explorer.nervos.org/charts/hash_rate",
+    url: "https://explorer.nervos.org/charts/hash-rate",
     path: "path/hash_rate.png"
   },
   {
-    url: "https://explorer.nervos.org/charts/uncle_rate",
+    url: "https://explorer.nervos.org/charts/uncle-rate",
     path: "path/uncle_rate.png"
   },
   {
-    url: "https://explorer.nervos.org/charts/transaction_count",
+    url: "https://explorer.nervos.org/charts/transaction-count",
     path: "path/transaction_count.png"
   },
   {
-    url: "https://explorer.nervos.org/charts/address_count",
+    url: "https://explorer.nervos.org/charts/address-count",
     path: "path/address_count.png"
   },
   {
-    url: "https://explorer.nervos.org/charts/cell_count",
+    url: "https://explorer.nervos.org/charts/cell-count",
     path: "path/cell_count.png"
   },
   {
-    url: "https://explorer.nervos.org/charts/total_dao_deposit",
+    url: "https://explorer.nervos.org/charts/total-dao-deposit",
     path: "path/total_dao_deposit.png"
   }
 ];
