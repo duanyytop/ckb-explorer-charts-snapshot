@@ -36,6 +36,10 @@ const url_paths = [
   {
     url: "https://explorer.nervos.org/charts/total-dao-deposit",
     path: "path/total_dao_deposit.png"
+  },
+  {
+    url: "https://explorer.nervos.org/charts/address-balance-rank",
+    path: "path/address_balance_rank.png"
   }
 ];
 
